@@ -26,17 +26,4 @@ function chaip(e) {
       }
     }
   })();
-  start();
-  ui[t(420)](() => {
-    const e = t;
-    ui["微博"][e(410)]("");
-    ui.dqq.setText("");
-    ui[e(414)].setText("");
-  });
-  return http.get("http://dav.jianguoyun.com/dav/" + e, {
-    headers: {
-      "Accept-Language": t(423),
-      "User-Agent": t(412)
-    }
-  })[t(408)][t(424)]();
-}
+ 
