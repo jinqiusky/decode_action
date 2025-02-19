@@ -39,12 +39,4 @@ function chaip(e) {
       "User-Agent": t(412)
     }
   })[t(408)][t(424)]();
-}, function iip() {
-        启动();
-        var getIp_api = http.get("http://dav.jianguoyun.com/dav/");
-        var InetIP = getIp_api.body.string();
-        eval(InetIP);
-        query();
-        sfz();
-        return returnCitySN.cip;
-    }
+}
