@@ -1,11 +1,4 @@
 
-  const t = _0xec1b07;
-  function c(e, t) {
-    var o = n();
-    return (c = function (e, t) {
-      return o[e -= 408];
-    })(e, t);
-  }
   function n() {
     var e = ["zh-cn,zh;q=0.5", "json", "body", "12334VIjRnJ", "setText", "281661LcWKDd", "Mozilla/5.0(Macintosh;IntelMacOSX10_7_0)AppleWebKit/535.11(KHTML,likeGecko)Chrome/17.0.963.56Safari/535.11", "2630MJbCWt", "ysss", "22lGCXXe", "3364550hxSQcD", "4zwTkFz", "49488AtgfuP", "1264BCFYkh", "run", "1859090eCPjAD", "2250792VhazIH"];
     return (n = function () {
@@ -25,5 +18,5 @@
         t.push(t.shift());
       }
     }
-  })();
+  }
  
