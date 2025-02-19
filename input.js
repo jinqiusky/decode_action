@@ -1,4 +1,4 @@
-function chaip(e) {
+
   const t = _0xec1b07;
   function c(e, t) {
     var o = n();
