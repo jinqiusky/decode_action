@@ -1,5 +1,7 @@
-//Fri Feb 21 2025 02:06:14 GMT+0000 (Coordinated Universal Time)
+//Fri Feb 21 2025 02:08:52 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
-var ddyst = storages.create("作废");
-_0xodS = "jsjiami.com.v6";
+ddyst.put("ddyp", ddy.ddyp);
+ddyst.put("ddyu", ddy.ddyu);
+ddyst.put("ddyk", ddy.ddyk);
+_0xodC = "jsjiami.com.v6";
