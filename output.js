@@ -1,4 +1,4 @@
-//Thu Feb 27 2025 03:24:01 GMT+0000 (Coordinated Universal Time)
+//Thu Feb 27 2025 03:25:03 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 function yan() {
